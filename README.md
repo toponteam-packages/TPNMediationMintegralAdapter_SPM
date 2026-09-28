@@ -17,7 +17,7 @@ The TopOn Mintegral mediation adapter for iOS, distributed via Swift Package Man
    ```
    https://github.com/toponteam-packages/TPNMediationMintegralAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `8.1.6-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `80106.2.0`).
 4. Add the `TPNMediationMintegralAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Mintegral mediation adapter for iOS, distributed via Swift Package Man
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationMintegralAdapter_SPM.git",
-        exact: "8.1.6-2.0"
+        exact: "80106.2.0"
     )
 ]
 ```
