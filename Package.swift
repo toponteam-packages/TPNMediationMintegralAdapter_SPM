@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkMintegralAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkMintegralAdapter/8.1.6.2.9/AnyThinkMintegralAdapter-8.1.6.2.9.zip",
-            checksum: "025cf6526e309737c2eb943ecc47536b4848c0057a7ec7df83f770c47ce488d8"
+            checksum: "58040ddaa6e2922b6d9f7c9ed6e1674de3f83e09464930c1b812e908f5f2dda7"
         ),
         .target(
             name: "TPNMediationMintegralAdapterTarget",
